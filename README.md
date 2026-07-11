@@ -3,6 +3,8 @@
 An interactive atlas of the world's writing systems — 202 scripts (living, historical,
 and constructed) catalogued after ISO 15924, for typography and linguistics enthusiasts.
 
+**Live demo:** [orthographica.vercel.app](https://orthographica.vercel.app/#lineage)
+
 ## Run it
 
 No build step, no server. Just open `index.html` in a browser.
