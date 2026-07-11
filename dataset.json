@@ -1,0 +1,4848 @@
+[
+  {
+    "id": "Adlm",
+    "numeric_code": "166",
+    "name": "Adlam",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 88,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 10.5,
+      "longitude": -11.5
+    },
+    "timeline": {
+      "invention_date": 1989,
+      "extinction_date": null
+    },
+    "languages": [
+      "Fula (Fulani)",
+      "Pular"
+    ],
+    "native_example": "𞤀𞤣𞤤𞤢𞤥",
+    "typography_quirks": "Invented by two teenage brothers in Guinea to write the Fulani language. Written RTL, cursive connections, contains upper/lowercase variants."
+  },
+  {
+    "id": "Afak",
+    "numeric_code": "439",
+    "name": "Afaka",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "South America",
+      "latitude": 4.0,
+      "longitude": -55.0
+    },
+    "timeline": {
+      "invention_date": 1910,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Aghb",
+    "numeric_code": "239",
+    "name": "Caucasian Albanian",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 53,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Caucasus",
+      "latitude": 40.5,
+      "longitude": 47.5
+    },
+    "timeline": {
+      "invention_date": 420,
+      "extinction_date": 800
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Ahom",
+    "numeric_code": "338",
+    "name": "Ahom, Tai Ahom",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 65,
+    "parent_script": "Mymr",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.0,
+      "longitude": 94.6
+    },
+    "timeline": {
+      "invention_date": 1250,
+      "extinction_date": 1800
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Arab",
+    "numeric_code": "160",
+    "name": "Arabic",
+    "type": "Abjad",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 1413,
+    "parent_script": "Nbat",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 24.46,
+      "longitude": 39.6
+    },
+    "timeline": {
+      "invention_date": 400,
+      "extinction_date": null
+    },
+    "languages": [
+      "Acehnese",
+      "Arabic",
+      "Balochi",
+      "Comorian",
+      "Dari",
+      "Kurdish",
+      "Malay (Jawi)",
+      "Pashto",
+      "Persian",
+      "Punjabi (Shahmukhi)",
+      "Sindhi",
+      "Somali (Abjad)",
+      "Sorani",
+      "Tigre (Abjad)",
+      "Urdu",
+      "Uyghur"
+    ],
+    "native_example": "العالم",
+    "typography_quirks": "Cursive script where characters change shape contextually (Initial, Medial, Final, Isolated). No capital letters. Uses vowel marks (harakat) optionally."
+  },
+  {
+    "id": "Armi",
+    "numeric_code": "124",
+    "name": "Imperial Aramaic",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 31,
+    "parent_script": "Phnx",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 33.51,
+      "longitude": 36.29
+    },
+    "timeline": {
+      "invention_date": -900,
+      "extinction_date": 200
+    },
+    "languages": [
+      "Aramaic",
+      "Biblical Aramaic",
+      "Imperial Aramaic"
+    ],
+    "native_example": "𐡀𐡓𐡌𐡉",
+    "typography_quirks": "Lingua franca script of the Neo-Assyrian and Persian Empires. Ancestor of Arabic, Hebrew, and Brahmi."
+  },
+  {
+    "id": "Armn",
+    "numeric_code": "230",
+    "name": "Armenian",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 96,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Caucasus",
+      "latitude": 40.18,
+      "longitude": 44.51
+    },
+    "timeline": {
+      "invention_date": 405,
+      "extinction_date": null
+    },
+    "languages": [
+      "Armenian"
+    ],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Avst",
+    "numeric_code": "134",
+    "name": "Avestan",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 61,
+    "parent_script": "Phlp",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0
+    },
+    "timeline": {
+      "invention_date": 400,
+      "extinction_date": 1000
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Bali",
+    "numeric_code": "360",
+    "name": "Balinese",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 127,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -8.4,
+      "longitude": 115.2
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Bamu",
+    "numeric_code": "435",
+    "name": "Bamum",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 657,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 5.5,
+      "longitude": 10.4
+    },
+    "timeline": {
+      "invention_date": 1896,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Bass",
+    "numeric_code": "259",
+    "name": "Bassa Vah",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 36,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 6.5,
+      "longitude": -9.5
+    },
+    "timeline": {
+      "invention_date": 1900,
+      "extinction_date": 1970
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Batk",
+    "numeric_code": "365",
+    "name": "Batak",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 56,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 2.5,
+      "longitude": 99.0
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Beng",
+    "numeric_code": "325",
+    "name": "Bengali (Bangla)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 96,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 23.81,
+      "longitude": 90.41
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [
+      "Assamese",
+      "Bengali",
+      "Bishnupriya Manipuri",
+      "Manipuri (Meitei)",
+      "Sylheti"
+    ],
+    "native_example": "বাংলা",
+    "typography_quirks": "Horizontal top line (shirorekha). Less angular than Devanagari. Rich inventory of conjunct consonants."
+  },
+  {
+    "id": "Berf",
+    "numeric_code": "258",
+    "name": "Beria Erfe",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 50,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 15.0,
+      "longitude": 22.0
+    },
+    "timeline": {
+      "invention_date": 1980,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Bhks",
+    "numeric_code": "334",
+    "name": "Bhaiksuki",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 97,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 25.0,
+      "longitude": 85.0
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": 1200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Blis",
+    "numeric_code": "550",
+    "name": "Blissymbols",
+    "type": "Logographic",
+    "status": "Constructed",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Constructed",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "timeline": {
+      "invention_date": 1949,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written LTR."
+  },
+  {
+    "id": "Bopo",
+    "numeric_code": "285",
+    "name": "Bopomofo",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 77,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 25.03,
+      "longitude": 121.56
+    },
+    "timeline": {
+      "invention_date": 1913,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Brah",
+    "numeric_code": "300",
+    "name": "Brahmi",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 115,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 25.31,
+      "longitude": 82.97
+    },
+    "timeline": {
+      "invention_date": -300,
+      "extinction_date": 500
+    },
+    "languages": [
+      "Ashokan Prakrit",
+      "Pali",
+      "Prakrit",
+      "Sanskrit"
+    ],
+    "native_example": "𑀩𑁆𑀭𑀸𑀳𑁆",
+    "typography_quirks": "Ancestral to nearly all South and Southeast Asian writing systems. Deciphered in the 19th century."
+  },
+  {
+    "id": "Brai",
+    "numeric_code": "570",
+    "name": "Braille",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 256,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "Europe",
+      "latitude": 48.85,
+      "longitude": 2.35
+    },
+    "timeline": {
+      "invention_date": 1824,
+      "extinction_date": null
+    },
+    "languages": [
+      "Persian (Braille)"
+    ],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Bugi",
+    "numeric_code": "367",
+    "name": "Buginese",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 30,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -5.1,
+      "longitude": 119.4
+    },
+    "timeline": {
+      "invention_date": 1600,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Buhd",
+    "numeric_code": "372",
+    "name": "Buhid",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 20,
+    "parent_script": "Tglg",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 12.9,
+      "longitude": 121.1
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Cakm",
+    "numeric_code": "349",
+    "name": "Chakma",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 71,
+    "parent_script": "Mymr",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 22.6,
+      "longitude": 92.2
+    },
+    "timeline": {
+      "invention_date": 1700,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Cans",
+    "numeric_code": "440",
+    "name": "Unified Canadian Aboriginal Syllabics",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 726,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "North America",
+      "latitude": 53.76,
+      "longitude": -98.81
+    },
+    "timeline": {
+      "invention_date": 1840,
+      "extinction_date": null
+    },
+    "languages": [
+      "Dene",
+      "Inuktitut",
+      "Ojibwe",
+      "Plains Cree",
+      "Swampy Cree"
+    ],
+    "native_example": "ᐊᓂᔑᓈ",
+    "typography_quirks": "The vowel of a syllable is indicated by the spatial orientation (rotation) of the consonant shape (e.g. ᐱ 'pi', ᐳ 'pu', ᐸ 'pa')."
+  },
+  {
+    "id": "Cari",
+    "numeric_code": "201",
+    "name": "Carian",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 49,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 37.0,
+      "longitude": 28.0
+    },
+    "timeline": {
+      "invention_date": -650,
+      "extinction_date": -300
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Cham",
+    "numeric_code": "358",
+    "name": "Cham",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 83,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 11.5,
+      "longitude": 108.5
+    },
+    "timeline": {
+      "invention_date": 750,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Cher",
+    "numeric_code": "445",
+    "name": "Cherokee",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 172,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "North America",
+      "latitude": 35.47,
+      "longitude": -83.31
+    },
+    "timeline": {
+      "invention_date": 1819,
+      "extinction_date": null
+    },
+    "languages": [
+      "Cherokee"
+    ],
+    "native_example": "ᏣᎳᎩ",
+    "typography_quirks": "Invented by Sequoyah. Characters resemble Latin letters but represent completely different syllables (e.g. 'D' is 'a', 'R' is 'e')."
+  },
+  {
+    "id": "Chis",
+    "numeric_code": "298",
+    "name": "Chisoi",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 23.0,
+      "longitude": 86.0
+    },
+    "timeline": {
+      "invention_date": 1935,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Chrs",
+    "numeric_code": "109",
+    "name": "Chorasmian",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 28,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Central Asia",
+      "latitude": 41.5,
+      "longitude": 60.5
+    },
+    "timeline": {
+      "invention_date": -100,
+      "extinction_date": 800
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Cirt",
+    "numeric_code": "291",
+    "name": "Cirth",
+    "type": "Alphabet",
+    "status": "Constructed",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Constructed",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "timeline": {
+      "invention_date": 1937,
+      "extinction_date": null
+    },
+    "languages": [
+      "Khuzdul",
+      "Sindarin"
+    ],
+    "native_example": "ᚲᚳ",
+    "typography_quirks": "Runic-like constructed script designed by J.R.R. Tolkien. Used by Dwarves in Middle-earth."
+  },
+  {
+    "id": "Copt",
+    "numeric_code": "204",
+    "name": "Coptic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 137,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Africa",
+      "latitude": 29.98,
+      "longitude": 31.13
+    },
+    "timeline": {
+      "invention_date": 100,
+      "extinction_date": 1600
+    },
+    "languages": [
+      "Coptic",
+      "Egyptian (Late stage)"
+    ],
+    "native_example": "ⲙⲉⲧⲣⲉ",
+    "typography_quirks": "Adapted Greek alphabet with 7 demotic-derived signs for Egyptian phonemes. Still used liturgically in the Coptic Church."
+  },
+  {
+    "id": "Cpmn",
+    "numeric_code": "402",
+    "name": "Cypro-Minoan",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 99,
+    "parent_script": "Lina",
+    "geography": {
+      "region": "Europe",
+      "latitude": 35.0,
+      "longitude": 33.3
+    },
+    "timeline": {
+      "invention_date": -1550,
+      "extinction_date": -1050
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Cprt",
+    "numeric_code": "403",
+    "name": "Cypriot syllabary",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 55,
+    "parent_script": "Cpmn",
+    "geography": {
+      "region": "Europe",
+      "latitude": 35.0,
+      "longitude": 33.0
+    },
+    "timeline": {
+      "invention_date": -1100,
+      "extinction_date": -300
+    },
+    "languages": [
+      "Cypriot Greek",
+      "Eteocypriot"
+    ],
+    "native_example": "𐠀𐠁",
+    "typography_quirks": "Cypro-syllabic script used to write Greek and Eteocypriot. Written right-to-left."
+  },
+  {
+    "id": "Cyrl",
+    "numeric_code": "220",
+    "name": "Cyrillic",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 508,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Europe & Northern Asia",
+      "latitude": 55.75,
+      "longitude": 37.61
+    },
+    "timeline": {
+      "invention_date": 900,
+      "extinction_date": null
+    },
+    "languages": [
+      "Abaza",
+      "Abkhaz",
+      "Adyghe",
+      "Aghul",
+      "Archi",
+      "Avar",
+      "Bashkir",
+      "Belarusian",
+      "Bulgarian",
+      "Buryat",
+      "Crimean Tatar",
+      "Dargwa",
+      "Enets",
+      "Erzya",
+      "Ingush",
+      "Kabardian",
+      "Kalmyk",
+      "Kazakh",
+      "Khakas",
+      "Komi-Permyak",
+      "Kyrgyz",
+      "Lak",
+      "Lezgi",
+      "Macedonian",
+      "Moksha",
+      "Moldovan",
+      "Mongolian",
+      "Mongolian (Cyrillic)",
+      "Nanai",
+      "Nganasan",
+      "Nivkh",
+      "Russian",
+      "Rutul (Cyrillic)",
+      "Serbian",
+      "Shor",
+      "Tabasaran",
+      "Tajik",
+      "Ter Sami",
+      "Tuvan",
+      "Udmurt",
+      "Ukrainian",
+      "Uzbek",
+      "Yakut"
+    ],
+    "native_example": "Мир",
+    "typography_quirks": "Derived from Greek uncial. Bicameral casing. Widely used across Eastern Europe and Northern Asia."
+  },
+  {
+    "id": "Deva",
+    "numeric_code": "315",
+    "name": "Devanagari (Nagari)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 164,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 28.61,
+      "longitude": 77.2
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [
+      "Bhojpuri",
+      "Bodo",
+      "Dogri",
+      "Hindi",
+      "Hindi (Devanāgarī)",
+      "Konkani",
+      "Maithili",
+      "Marathi",
+      "Nepali",
+      "Sanskrit",
+      "Sherpa"
+    ],
+    "native_example": "नमस्ते",
+    "typography_quirks": "Characterized by a continuous horizontal hanging line (shirorekha). Consonants have an inherent 'a' vowel which is modified by diacritics."
+  },
+  {
+    "id": "Diak",
+    "numeric_code": "342",
+    "name": "Dives Akuru",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 72,
+    "parent_script": "Gran",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 4.2,
+      "longitude": 73.5
+    },
+    "timeline": {
+      "invention_date": 1200,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Dogr",
+    "numeric_code": "328",
+    "name": "Dogra",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 60,
+    "parent_script": "Takr",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 32.7,
+      "longitude": 74.9
+    },
+    "timeline": {
+      "invention_date": 1800,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Dsrt",
+    "numeric_code": "250",
+    "name": "Deseret (Mormon)",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 80,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "North America",
+      "latitude": 40.76,
+      "longitude": -111.89
+    },
+    "timeline": {
+      "invention_date": 1854,
+      "extinction_date": 1877
+    },
+    "languages": [
+      "English"
+    ],
+    "native_example": "𐐔𐐮𐑅𐐲",
+    "typography_quirks": "Phonetic alphabet developed at the University of Deseret under Brigham Young for the Mormon community."
+  },
+  {
+    "id": "Dupl",
+    "numeric_code": "755",
+    "name": "Duployan shorthand, Duployan stenography",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 143,
+    "parent_script": null,
+    "geography": {
+      "region": "Europe",
+      "latitude": 48.85,
+      "longitude": 2.35
+    },
+    "timeline": {
+      "invention_date": 1860,
+      "extinction_date": 1930
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Egyd",
+    "numeric_code": "070",
+    "name": "Egyptian demotic",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 0,
+    "parent_script": "Egyh",
+    "geography": {
+      "region": "Africa",
+      "latitude": 30.0,
+      "longitude": 31.2
+    },
+    "timeline": {
+      "invention_date": -650,
+      "extinction_date": 450
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written RTL."
+  },
+  {
+    "id": "Egyh",
+    "numeric_code": "060",
+    "name": "Egyptian hieratic",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 0,
+    "parent_script": "Egyp",
+    "geography": {
+      "region": "Africa",
+      "latitude": 25.7,
+      "longitude": 32.6
+    },
+    "timeline": {
+      "invention_date": -2900,
+      "extinction_date": 200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written RTL."
+  },
+  {
+    "id": "Egyp",
+    "numeric_code": "050",
+    "name": "Egyptian hieroglyphs",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 5105,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 25.7,
+      "longitude": 32.6
+    },
+    "timeline": {
+      "invention_date": -3200,
+      "extinction_date": 400
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written RTL."
+  },
+  {
+    "id": "Elba",
+    "numeric_code": "226",
+    "name": "Elbasan",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 40,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Europe",
+      "latitude": 41.1,
+      "longitude": 20.1
+    },
+    "timeline": {
+      "invention_date": 1750,
+      "extinction_date": 1850
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Elym",
+    "numeric_code": "128",
+    "name": "Elymaic",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 23,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 31.3,
+      "longitude": 48.7
+    },
+    "timeline": {
+      "invention_date": -200,
+      "extinction_date": 100
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Ethi",
+    "numeric_code": "430",
+    "name": "Ethiopic (Geʻez)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 523,
+    "parent_script": "Sarb",
+    "geography": {
+      "region": "Africa",
+      "latitude": 9.03,
+      "longitude": 38.74
+    },
+    "timeline": {
+      "invention_date": 300,
+      "extinction_date": null
+    },
+    "languages": [
+      "Amharic",
+      "Blin",
+      "Ge'ez",
+      "Harari",
+      "Tigre",
+      "Tigre (Geez)",
+      "Tigrinya"
+    ],
+    "native_example": "አማርኛ",
+    "typography_quirks": "Evolved from South Arabian abjad into an abugida by adding vowel appendages and modifications directly onto the consonants."
+  },
+  {
+    "id": "Gara",
+    "numeric_code": "164",
+    "name": "Garay",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 69,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 14.7,
+      "longitude": -17.4
+    },
+    "timeline": {
+      "invention_date": 1961,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Geok",
+    "numeric_code": "241",
+    "name": "Khutsuri (Asomtavruli and Nuskhuri)",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 173,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Caucasus",
+      "latitude": 41.7,
+      "longitude": 44.8
+    },
+    "timeline": {
+      "invention_date": 430,
+      "extinction_date": 1100
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Geor",
+    "numeric_code": "240",
+    "name": "Georgian (Mkhedruli and Mtavruli)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 173,
+    "parent_script": "Geok",
+    "geography": {
+      "region": "Caucasus",
+      "latitude": 41.7,
+      "longitude": 44.8
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [
+      "Georgian (Mkhedruli)"
+    ],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Glag",
+    "numeric_code": "225",
+    "name": "Glagolitic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 134,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Europe",
+      "latitude": 45.1,
+      "longitude": 15.2
+    },
+    "timeline": {
+      "invention_date": 863,
+      "extinction_date": 1900
+    },
+    "languages": [
+      "Croatian (liturgical variant)",
+      "Old Bulgarian",
+      "Old Church Slavonic"
+    ],
+    "native_example": "Ⰽⰾⰹⰿ",
+    "typography_quirks": "Created by Saints Cyril and Methodius. Highly ornate, symbolic letter designs to transcribe Old Church Slavonic."
+  },
+  {
+    "id": "Gong",
+    "numeric_code": "312",
+    "name": "Gunjala Gondi",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 63,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 19.5,
+      "longitude": 78.5
+    },
+    "timeline": {
+      "invention_date": 1750,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Gonm",
+    "numeric_code": "313",
+    "name": "Masaram Gondi",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 75,
+    "parent_script": "Deva",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 20.0,
+      "longitude": 79.0
+    },
+    "timeline": {
+      "invention_date": 1918,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Goth",
+    "numeric_code": "206",
+    "name": "Gothic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 27,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Europe",
+      "latitude": 48.2,
+      "longitude": 16.37
+    },
+    "timeline": {
+      "invention_date": 350,
+      "extinction_date": 600
+    },
+    "languages": [
+      "Gothic"
+    ],
+    "native_example": "𐌲𐌿𐍄𐌹𐍃𐌺",
+    "typography_quirks": "Invented by Bishop Ulfilas. Relies on Greek letterforms with borrowings from Latin and Runic to transcribe Gothic translations of the Bible."
+  },
+  {
+    "id": "Gran",
+    "numeric_code": "343",
+    "name": "Grantha",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 85,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 10.8,
+      "longitude": 78.7
+    },
+    "timeline": {
+      "invention_date": 550,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Grek",
+    "numeric_code": "200",
+    "name": "Greek",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 518,
+    "parent_script": "Phnx",
+    "geography": {
+      "region": "Europe",
+      "latitude": 37.98,
+      "longitude": 23.72
+    },
+    "timeline": {
+      "invention_date": -800,
+      "extinction_date": null
+    },
+    "languages": [
+      "Ancient Greek",
+      "Greek"
+    ],
+    "native_example": "Κόσμος",
+    "typography_quirks": "First writing system to use separate symbols for vowels. Dual-casing introduced in Hellenistic period."
+  },
+  {
+    "id": "Gujr",
+    "numeric_code": "320",
+    "name": "Gujarati",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 91,
+    "parent_script": "Deva",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 23.0,
+      "longitude": 72.6
+    },
+    "timeline": {
+      "invention_date": 1600,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Gukh",
+    "numeric_code": "397",
+    "name": "Gurung Khema",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 58,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 28.2,
+      "longitude": 84.0
+    },
+    "timeline": {
+      "invention_date": 1980,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Guru",
+    "numeric_code": "310",
+    "name": "Gurmukhi",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 80,
+    "parent_script": "Shrd",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 31.6,
+      "longitude": 74.9
+    },
+    "timeline": {
+      "invention_date": 1539,
+      "extinction_date": null
+    },
+    "languages": [
+      "Panjabi (Gurmukhi)"
+    ],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Hang",
+    "numeric_code": "286",
+    "name": "Hangul (Hangŭl, Hangeul)",
+    "type": "Featural",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 11739,
+    "parent_script": null,
+    "geography": {
+      "region": "East Asia",
+      "latitude": 37.56,
+      "longitude": 126.97
+    },
+    "timeline": {
+      "invention_date": 1443,
+      "extinction_date": null
+    },
+    "languages": [
+      "Hangul (Korean)",
+      "Korean"
+    ],
+    "native_example": "한글",
+    "typography_quirks": "Featural alphabet. Letters are grouped visually into syllabic square blocks rather than written sequentially in a line."
+  },
+  {
+    "id": "Hani",
+    "numeric_code": "500",
+    "name": "Han (Hanzi, Kanji, Hanja)",
+    "type": "Logographic",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 103351,
+    "parent_script": "Seal",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 39.9,
+      "longitude": 116.4
+    },
+    "timeline": {
+      "invention_date": -1250,
+      "extinction_date": null
+    },
+    "languages": [
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Japanese (Kanji)",
+      "Korean (Hanja, historically)",
+      "Vietnamese (Chữ Nôm, historically)"
+    ],
+    "native_example": "世界",
+    "typography_quirks": "Logographic system. Characters represent morphemes or words. No word spacing. Historically written vertically top-to-bottom, now primarily LTR."
+  },
+  {
+    "id": "Hano",
+    "numeric_code": "371",
+    "name": "Hanunoo (Hanunóo)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 21,
+    "parent_script": "Tglg",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 12.5,
+      "longitude": 121.2
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": null
+    },
+    "languages": [
+      "Hanuno'o"
+    ],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Hatr",
+    "numeric_code": "127",
+    "name": "Hatran",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 26,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 35.6,
+      "longitude": 42.7
+    },
+    "timeline": {
+      "invention_date": -100,
+      "extinction_date": 300
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Hebr",
+    "numeric_code": "125",
+    "name": "Hebrew",
+    "type": "Abjad",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 134,
+    "parent_script": "Phnx",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 31.76,
+      "longitude": 35.21
+    },
+    "timeline": {
+      "invention_date": -900,
+      "extinction_date": null
+    },
+    "languages": [
+      "Hebrew",
+      "Judeo-Arabic",
+      "Ladino",
+      "Yiddish"
+    ],
+    "native_example": "שלום",
+    "typography_quirks": "Square style characters. Uses optional vowel dots (niqqud). Five letters have special final forms (sofit). No capitalization."
+  },
+  {
+    "id": "Hira",
+    "numeric_code": "410",
+    "name": "Hiragana",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 381,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 35.67,
+      "longitude": 139.65
+    },
+    "timeline": {
+      "invention_date": 800,
+      "extinction_date": null
+    },
+    "languages": [
+      "Japanese",
+      "Japanese (Hiragana)"
+    ],
+    "native_example": "ひらがな",
+    "typography_quirks": "Curved, cursive syllabary developed from simplified full kanji characters. Used for native grammar, particles, and verb endings."
+  },
+  {
+    "id": "Hluw",
+    "numeric_code": "080",
+    "name": "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "Boustrophedon",
+    "character_count": 583,
+    "parent_script": null,
+    "geography": {
+      "region": "Middle East",
+      "latitude": 37.0,
+      "longitude": 36.0
+    },
+    "timeline": {
+      "invention_date": -1400,
+      "extinction_date": -700
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written Boustrophedon."
+  },
+  {
+    "id": "Hmng",
+    "numeric_code": "450",
+    "name": "Pahawh Hmong",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 127,
+    "parent_script": null,
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 19.9,
+      "longitude": 102.5
+    },
+    "timeline": {
+      "invention_date": 1959,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Hmnp",
+    "numeric_code": "451",
+    "name": "Nyiakeng Puachue Hmong",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 71,
+    "parent_script": null,
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 19.9,
+      "longitude": 102.5
+    },
+    "timeline": {
+      "invention_date": 1980,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Hung",
+    "numeric_code": "176",
+    "name": "Old Hungarian (Hungarian Runic)",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 108,
+    "parent_script": "Orkh",
+    "geography": {
+      "region": "Europe",
+      "latitude": 47.5,
+      "longitude": 19.0
+    },
+    "timeline": {
+      "invention_date": 900,
+      "extinction_date": 1850
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Inds",
+    "numeric_code": "610",
+    "name": "Indus (Harappan)",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.3,
+      "longitude": 68.1
+    },
+    "timeline": {
+      "invention_date": -2600,
+      "extinction_date": -1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written RTL."
+  },
+  {
+    "id": "Ital",
+    "numeric_code": "210",
+    "name": "Old Italic (Etruscan, Oscan, etc.)",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 39,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Europe",
+      "latitude": 43.0,
+      "longitude": 11.5
+    },
+    "timeline": {
+      "invention_date": -700,
+      "extinction_date": -100
+    },
+    "languages": [
+      "Etruscan",
+      "Faliscan",
+      "Oscan",
+      "Umbrian"
+    ],
+    "native_example": "𐌀𐌂𐌄",
+    "typography_quirks": "Old Italic alphabets used by Etruscans, Oscans, Umbrians. Predecessor of the Latin alphabet."
+  },
+  {
+    "id": "Java",
+    "numeric_code": "361",
+    "name": "Javanese",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 90,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -7.8,
+      "longitude": 110.4
+    },
+    "timeline": {
+      "invention_date": 1500,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Jurc",
+    "numeric_code": "510",
+    "name": "Jurchen",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 0,
+    "parent_script": "Kitl",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 45.8,
+      "longitude": 126.5
+    },
+    "timeline": {
+      "invention_date": 1120,
+      "extinction_date": 1500
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written TTB."
+  },
+  {
+    "id": "Kali",
+    "numeric_code": "357",
+    "name": "Kayah Li",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 47,
+    "parent_script": null,
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 19.2,
+      "longitude": 97.2
+    },
+    "timeline": {
+      "invention_date": 1962,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Kana",
+    "numeric_code": "411",
+    "name": "Katakana",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 321,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 35.67,
+      "longitude": 139.65
+    },
+    "timeline": {
+      "invention_date": 800,
+      "extinction_date": null
+    },
+    "languages": [
+      "Ainu",
+      "Ainu (Katakana)",
+      "Japanese",
+      "Japanese (Katakana)"
+    ],
+    "native_example": "カタカナ",
+    "typography_quirks": "Angled, simplified syllabary derived from parts of kanji characters. Used for loanwords, emphasis, and scientific names."
+  },
+  {
+    "id": "Kawi",
+    "numeric_code": "368",
+    "name": "Kawi",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 87,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -7.6,
+      "longitude": 110.2
+    },
+    "timeline": {
+      "invention_date": 750,
+      "extinction_date": 1500
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Khar",
+    "numeric_code": "305",
+    "name": "Kharoshthi",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 68,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 34.0,
+      "longitude": 71.5
+    },
+    "timeline": {
+      "invention_date": -300,
+      "extinction_date": 400
+    },
+    "languages": [
+      "Gandhari Prakrit",
+      "Sanskrit"
+    ],
+    "native_example": "𐨑𐨗",
+    "typography_quirks": "Ancient Indo-Iranian script written right-to-left. Developed under Aramaic influence in Gandhara."
+  },
+  {
+    "id": "Khmr",
+    "numeric_code": "355",
+    "name": "Khmer",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 146,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 11.55,
+      "longitude": 104.92
+    },
+    "timeline": {
+      "invention_date": 611,
+      "extinction_date": null
+    },
+    "languages": [
+      "Khmer"
+    ],
+    "native_example": "ភាសាខ្មែរ",
+    "typography_quirks": "Features subjoined consonant symbols (co-consonants) written underneath main letters. Inherent vowels differ by consonant series (O-series / A-series)."
+  },
+  {
+    "id": "Khoj",
+    "numeric_code": "322",
+    "name": "Khojki",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 65,
+    "parent_script": "Shrd",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 25.4,
+      "longitude": 68.4
+    },
+    "timeline": {
+      "invention_date": 1520,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Kitl",
+    "numeric_code": "505",
+    "name": "Khitan large script",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 0,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 43.9,
+      "longitude": 116.1
+    },
+    "timeline": {
+      "invention_date": 920,
+      "extinction_date": 1200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written TTB."
+  },
+  {
+    "id": "Kits",
+    "numeric_code": "288",
+    "name": "Khitan small script",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 472,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 43.9,
+      "longitude": 116.1
+    },
+    "timeline": {
+      "invention_date": 925,
+      "extinction_date": 1200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written TTB."
+  },
+  {
+    "id": "Knda",
+    "numeric_code": "345",
+    "name": "Kannada",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 92,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 12.97,
+      "longitude": 77.59
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [
+      "Kannada",
+      "Kodava",
+      "Konkani",
+      "Tulu"
+    ],
+    "native_example": "ಕನ್ನಡ",
+    "typography_quirks": "Extremely similar to Telugu. Rounded characters. Uses subjoined consonant glyphs to express clusters."
+  },
+  {
+    "id": "Kpel",
+    "numeric_code": "436",
+    "name": "Kpelle",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 6.9,
+      "longitude": -9.4
+    },
+    "timeline": {
+      "invention_date": 1935,
+      "extinction_date": 1970
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Krai",
+    "numeric_code": "396",
+    "name": "Kirat Rai",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 58,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.0,
+      "longitude": 87.3
+    },
+    "timeline": {
+      "invention_date": 1920,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Kthi",
+    "numeric_code": "317",
+    "name": "Kaithi",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 68,
+    "parent_script": "Deva",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 25.6,
+      "longitude": 85.1
+    },
+    "timeline": {
+      "invention_date": 1500,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Lana",
+    "numeric_code": "351",
+    "name": "Tai Tham (Lanna)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 127,
+    "parent_script": "Mymr",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 18.8,
+      "longitude": 99.0
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Laoo",
+    "numeric_code": "356",
+    "name": "Lao",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 83,
+    "parent_script": "Khmr",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 17.97,
+      "longitude": 102.63
+    },
+    "timeline": {
+      "invention_date": 1350,
+      "extinction_date": null
+    },
+    "languages": [
+      "Lao"
+    ],
+    "native_example": "ພາສາລາວ",
+    "typography_quirks": "Similar to Thai, but curved and simplified. Features spelling reforms that made it highly phonetic compared to Thai."
+  },
+  {
+    "id": "Latn",
+    "numeric_code": "215",
+    "name": "Latin",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 1492,
+    "parent_script": "Ital",
+    "geography": {
+      "region": "Europe",
+      "latitude": 41.9,
+      "longitude": 12.5
+    },
+    "timeline": {
+      "invention_date": -700,
+      "extinction_date": null
+    },
+    "languages": [
+      "Afrikaans",
+      "Ahtna",
+      "Ainu (Latin)",
+      "Anutan",
+      "Apache",
+      "Arawak",
+      "Aymara",
+      "Beaver",
+      "Breton",
+      "Catalan",
+      "Chipewyan",
+      "Cornish",
+      "Czech",
+      "Danish",
+      "Dena’ina",
+      "Dutch",
+      "English",
+      "English (BrE)",
+      "Estonian",
+      "Ewe",
+      "Eyak",
+      "Faka-Tongan",
+      "Faroese",
+      "Fijian",
+      "Finnish",
+      "French",
+      "Fula",
+      "Futunan",
+      "German",
+      "Hawaiian",
+      "Hungarian",
+      "Hupa",
+      "Hän",
+      "Icelandic",
+      "Igbo",
+      "Indonesian",
+      "Ingrian",
+      "Irish",
+      "Italian",
+      "Itbayat",
+      "Kapingamarangi",
+      "Karelian",
+      "Kichwa",
+      "Kikuyu",
+      "Koyukon",
+      "Kri",
+      "Kwanyama",
+      "Latvian",
+      "Lingala",
+      "Lithuanian",
+      "Lower Sorbian",
+      "Mangareva",
+      "Manx",
+      "Maori",
+      "Mele-Fila",
+      "Moriori",
+      "Navajo",
+      "Ndyuka (Latin)",
+      "Niuafo'ou",
+      "Niuean",
+      "Northern Sami",
+      "Norwegian",
+      "Nukuoro",
+      "Pacoh",
+      "Paraguayan Guarani",
+      "Polish",
+      "Portuguese",
+      "Pukapukan",
+      "Rarotongan",
+      "Rennellese",
+      "Rutul (Latin)",
+      "Samoan",
+      "Sarcee",
+      "Scottish Gaelic",
+      "Sikaiana",
+      "Skolt Sami",
+      "Slovak",
+      "Slovenian",
+      "Somali (Latin)",
+      "Southern Sami",
+      "Spanish",
+      "Swahili",
+      "Swedish",
+      "Tagalog",
+      "Tahitian",
+      "Tao",
+      "Temne",
+      "Tikopia",
+      "Tokelauan",
+      "Tsonga",
+      "Turkish",
+      "Tuvaluan",
+      "Upper Sorbian",
+      "Vaeakau-Taumako",
+      "Vananga rapa nui",
+      "Vietnamese",
+      "Võro",
+      "Wa",
+      "Wallisian",
+      "Welsh",
+      "Wolof",
+      "Xhosa",
+      "Yapese",
+      "Yoruba",
+      "Zulu",
+      "chiTonga",
+      "seSotho",
+      "seTswana",
+      "siSwati"
+    ],
+    "native_example": "Orbis",
+    "typography_quirks": "Features letter cases (capital and lowercase). Highly standardized word spacing and punctuation. Widely used for Romanic, Germanic, Slavic, and other languages."
+  },
+  {
+    "id": "Leke",
+    "numeric_code": "364",
+    "name": "Leke",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": "Mymr",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 17.5,
+      "longitude": 97.7
+    },
+    "timeline": {
+      "invention_date": 1844,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Lepc",
+    "numeric_code": "335",
+    "name": "Lepcha (Róng)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 74,
+    "parent_script": "Tibt",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.3,
+      "longitude": 88.6
+    },
+    "timeline": {
+      "invention_date": 1700,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Limb",
+    "numeric_code": "336",
+    "name": "Limbu",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 68,
+    "parent_script": "Tibt",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.3,
+      "longitude": 87.9
+    },
+    "timeline": {
+      "invention_date": 1740,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Lina",
+    "numeric_code": "400",
+    "name": "Linear A",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 341,
+    "parent_script": null,
+    "geography": {
+      "region": "Europe",
+      "latitude": 35.3,
+      "longitude": 25.16
+    },
+    "timeline": {
+      "invention_date": -1800,
+      "extinction_date": -1450
+    },
+    "languages": [
+      "Minoan"
+    ],
+    "native_example": "𐘀𐘁",
+    "typography_quirks": "Minoan script of ancient Crete. Remaining undeciphered to this day."
+  },
+  {
+    "id": "Linb",
+    "numeric_code": "401",
+    "name": "Linear B",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 211,
+    "parent_script": "Lina",
+    "geography": {
+      "region": "Europe",
+      "latitude": 35.3,
+      "longitude": 25.16
+    },
+    "timeline": {
+      "invention_date": -1450,
+      "extinction_date": -1200
+    },
+    "languages": [
+      "Mycenaean Greek"
+    ],
+    "native_example": "𐀀𐀃",
+    "typography_quirks": "Deciphered by Michael Ventris as Mycenaean Greek. Syllabic characters plus logograms."
+  },
+  {
+    "id": "Lisu",
+    "numeric_code": "399",
+    "name": "Lisu (Fraser)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 49,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 25.9,
+      "longitude": 98.8
+    },
+    "timeline": {
+      "invention_date": 1915,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Loma",
+    "numeric_code": "437",
+    "name": "Loma",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 7.8,
+      "longitude": -9.8
+    },
+    "timeline": {
+      "invention_date": 1935,
+      "extinction_date": 1970
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Lyci",
+    "numeric_code": "202",
+    "name": "Lycian",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 29,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 36.4,
+      "longitude": 29.3
+    },
+    "timeline": {
+      "invention_date": -500,
+      "extinction_date": -300
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Lydi",
+    "numeric_code": "116",
+    "name": "Lydian",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 27,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 38.5,
+      "longitude": 28.0
+    },
+    "timeline": {
+      "invention_date": -700,
+      "extinction_date": -200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Mahj",
+    "numeric_code": "314",
+    "name": "Mahajani",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 39,
+    "parent_script": "Shrd",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 26.9,
+      "longitude": 75.8
+    },
+    "timeline": {
+      "invention_date": 1600,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Maka",
+    "numeric_code": "366",
+    "name": "Makasar",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 25,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -5.1,
+      "longitude": 119.4
+    },
+    "timeline": {
+      "invention_date": 1600,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Mand",
+    "numeric_code": "140",
+    "name": "Mandaic, Mandaean",
+    "type": "Abjad",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 29,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 31.0,
+      "longitude": 47.4
+    },
+    "timeline": {
+      "invention_date": 200,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Mani",
+    "numeric_code": "139",
+    "name": "Manichaean",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 51,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Central Asia",
+      "latitude": 40.0,
+      "longitude": 65.0
+    },
+    "timeline": {
+      "invention_date": 250,
+      "extinction_date": 1000
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Marc",
+    "numeric_code": "332",
+    "name": "Marchen",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 68,
+    "parent_script": "Tibt",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 31.0,
+      "longitude": 84.0
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": 1400
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Maya",
+    "numeric_code": "090",
+    "name": "Mayan hieroglyphs",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "North America",
+      "latitude": 17.22,
+      "longitude": -89.62
+    },
+    "timeline": {
+      "invention_date": -300,
+      "extinction_date": 1697
+    },
+    "languages": [
+      "Ch'olti'",
+      "Classic Maya",
+      "K'iche'",
+      "Yucatec Maya"
+    ],
+    "native_example": "𝋠𝋡",
+    "typography_quirks": "Highly pictorial glyph blocks containing both logograms and phonetic syllables. Written in double columns, top-to-bottom, left-to-right."
+  },
+  {
+    "id": "Medf",
+    "numeric_code": "265",
+    "name": "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 91,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 5.0,
+      "longitude": 7.9
+    },
+    "timeline": {
+      "invention_date": 1930,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Mend",
+    "numeric_code": "438",
+    "name": "Mende Kikakui",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 213,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 8.0,
+      "longitude": -11.7
+    },
+    "timeline": {
+      "invention_date": 1917,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written RTL."
+  },
+  {
+    "id": "Merc",
+    "numeric_code": "101",
+    "name": "Meroitic Cursive",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 90,
+    "parent_script": "Egyd",
+    "geography": {
+      "region": "Africa",
+      "latitude": 16.9,
+      "longitude": 33.7
+    },
+    "timeline": {
+      "invention_date": -300,
+      "extinction_date": 450
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written RTL."
+  },
+  {
+    "id": "Mero",
+    "numeric_code": "100",
+    "name": "Meroitic Hieroglyphs",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 32,
+    "parent_script": "Egyp",
+    "geography": {
+      "region": "Africa",
+      "latitude": 16.9,
+      "longitude": 33.7
+    },
+    "timeline": {
+      "invention_date": -300,
+      "extinction_date": 450
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written RTL."
+  },
+  {
+    "id": "Mlym",
+    "numeric_code": "347",
+    "name": "Malayalam",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 118,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 8.52,
+      "longitude": 76.93
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": null
+    },
+    "languages": [
+      "Malayalam",
+      "Ravula"
+    ],
+    "native_example": "മലയാളം",
+    "typography_quirks": "Rounded character forms. Largest number of letters of all Indian languages. Distinctive 'chillu' letters."
+  },
+  {
+    "id": "Modi",
+    "numeric_code": "324",
+    "name": "Modi, Moḍī",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 79,
+    "parent_script": "Deva",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 18.5,
+      "longitude": 73.9
+    },
+    "timeline": {
+      "invention_date": 1600,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Mong",
+    "numeric_code": "145",
+    "name": "Mongolian",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "TTB",
+    "character_count": 168,
+    "parent_script": "Ougr",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 47.9,
+      "longitude": 106.9
+    },
+    "timeline": {
+      "invention_date": 1204,
+      "extinction_date": null
+    },
+    "languages": [
+      "Manchu",
+      "Mongolian",
+      "Todo / Oirat",
+      "Xibe"
+    ],
+    "native_example": "ᠮᠣᠩᠭᠣᠯ",
+    "typography_quirks": "Written vertically from top to bottom, with columns progressing left to right. Letters have initial, medial, and final contextual forms."
+  },
+  {
+    "id": "Moon",
+    "numeric_code": "218",
+    "name": "Moon (Moon code, Moon script, Moon type)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "Europe",
+      "latitude": 50.8,
+      "longitude": -0.1
+    },
+    "timeline": {
+      "invention_date": 1845,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Mroo",
+    "numeric_code": "264",
+    "name": "Mro, Mru",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 43,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 22.0,
+      "longitude": 92.3
+    },
+    "timeline": {
+      "invention_date": 1985,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Mtei",
+    "numeric_code": "337",
+    "name": "Meitei Mayek (Meithei, Meetei)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 79,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 24.8,
+      "longitude": 93.9
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Mult",
+    "numeric_code": "323",
+    "name": "Multani",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 38,
+    "parent_script": "Shrd",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 30.2,
+      "longitude": 71.5
+    },
+    "timeline": {
+      "invention_date": 1750,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Mymr",
+    "numeric_code": "350",
+    "name": "Myanmar (Burmese)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 243,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 16.86,
+      "longitude": 96.19
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [
+      "Burmese",
+      "Karen (S'gaw)",
+      "Mon",
+      "Palaung",
+      "Shan"
+    ],
+    "native_example": "မြန်မာဘာသာ",
+    "typography_quirks": "Consists of highly circular loops, developed due to writing on fragile palm leaves. Uses complex stacking of consonants."
+  },
+  {
+    "id": "Nagm",
+    "numeric_code": "295",
+    "name": "Nag Mundari",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 42,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 23.3,
+      "longitude": 85.3
+    },
+    "timeline": {
+      "invention_date": 1949,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Nand",
+    "numeric_code": "311",
+    "name": "Nandinagari",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 65,
+    "parent_script": "Deva",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 13.3,
+      "longitude": 77.1
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Narb",
+    "numeric_code": "106",
+    "name": "Old North Arabian (Ancient North Arabian)",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 32,
+    "parent_script": "Psin",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 26.0,
+      "longitude": 40.0
+    },
+    "timeline": {
+      "invention_date": -800,
+      "extinction_date": 400
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Nbat",
+    "numeric_code": "159",
+    "name": "Nabataean",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 40,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 30.3,
+      "longitude": 35.4
+    },
+    "timeline": {
+      "invention_date": -200,
+      "extinction_date": 350
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Newa",
+    "numeric_code": "333",
+    "name": "Newa, Newar, Newari, Nepāla lipi",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 97,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.7,
+      "longitude": 85.3
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Nkdb",
+    "numeric_code": "085",
+    "name": "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)",
+    "type": "Logographic",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "East Asia",
+      "latitude": 26.9,
+      "longitude": 100.2
+    },
+    "timeline": {
+      "invention_date": 1200,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written LTR."
+  },
+  {
+    "id": "Nkgb",
+    "numeric_code": "420",
+    "name": "Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "East Asia",
+      "latitude": 26.9,
+      "longitude": 100.2
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Nkoo",
+    "numeric_code": "165",
+    "name": "N’Ko",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 62,
+    "parent_script": "Arab",
+    "geography": {
+      "region": "Africa",
+      "latitude": 12.1,
+      "longitude": -8.1
+    },
+    "timeline": {
+      "invention_date": 1949,
+      "extinction_date": null
+    },
+    "languages": [
+      "Bambara",
+      "Dyula",
+      "Mandinka",
+      "Maninka",
+      "N'Ko"
+    ],
+    "native_example": "ߒߞߏ",
+    "typography_quirks": "Invented by Solomana Kante to write Manding languages. Written RTL, letters join together cursively like Arabic, uses diacritics for vowels and tones."
+  },
+  {
+    "id": "Nshu",
+    "numeric_code": "499",
+    "name": "Nüshu",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 397,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 25.3,
+      "longitude": 111.6
+    },
+    "timeline": {
+      "invention_date": 1400,
+      "extinction_date": 2004
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written TTB."
+  },
+  {
+    "id": "Ogam",
+    "numeric_code": "212",
+    "name": "Ogham",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 29,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "Europe",
+      "latitude": 53.34,
+      "longitude": -6.26
+    },
+    "timeline": {
+      "invention_date": 300,
+      "extinction_date": 600
+    },
+    "languages": [
+      "Old Irish",
+      "Old Welsh",
+      "Pictish",
+      "Primitive Irish"
+    ],
+    "native_example": "ᚑᚌᚐᚋ",
+    "typography_quirks": "Characters represent notches or lines cut across a central edge (stemline) on stone pillars. Read bottom-to-top on stone, or LTR in manuscripts."
+  },
+  {
+    "id": "Olck",
+    "numeric_code": "261",
+    "name": "Ol Chiki (Ol Cemet’, Ol, Santali)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 48,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 22.25,
+      "longitude": 86.5
+    },
+    "timeline": {
+      "invention_date": 1925,
+      "extinction_date": null
+    },
+    "languages": [
+      "Santali"
+    ],
+    "native_example": "ᱚᱞ ᱪᱤᱠᱤ",
+    "typography_quirks": "Created by Pandit Raghunath Murmu to write Santali. Letter shapes are derived from natural shapes and actions (e.g. 'O' is a blowing mouth)."
+  },
+  {
+    "id": "Onao",
+    "numeric_code": "296",
+    "name": "Ol Onal",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 44,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 22.4,
+      "longitude": 86.7
+    },
+    "timeline": {
+      "invention_date": 1981,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Orkh",
+    "numeric_code": "175",
+    "name": "Old Turkic, Orkhon Runic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 73,
+    "parent_script": "Sogd",
+    "geography": {
+      "region": "Central Asia",
+      "latitude": 47.5,
+      "longitude": 102.8
+    },
+    "timeline": {
+      "invention_date": 700,
+      "extinction_date": 1000
+    },
+    "languages": [
+      "Old Kyrgyz",
+      "Old Turkic"
+    ],
+    "native_example": "𐰜𐰇",
+    "typography_quirks": "Old Turkic runes. Symmetrical lines carved in rock in the Orkhon Valley. Written from right to left."
+  },
+  {
+    "id": "Orya",
+    "numeric_code": "327",
+    "name": "Oriya (Odia)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 91,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 20.3,
+      "longitude": 85.8
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Osge",
+    "numeric_code": "219",
+    "name": "Osage",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 72,
+    "parent_script": "Latn",
+    "geography": {
+      "region": "North America",
+      "latitude": 36.7,
+      "longitude": -96.3
+    },
+    "timeline": {
+      "invention_date": 2006,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Osma",
+    "numeric_code": "260",
+    "name": "Osmanya",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 40,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 2.0,
+      "longitude": 45.3
+    },
+    "timeline": {
+      "invention_date": 1920,
+      "extinction_date": 1972
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Ougr",
+    "numeric_code": "143",
+    "name": "Old Uyghur",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 26,
+    "parent_script": "Sogd",
+    "geography": {
+      "region": "Central Asia",
+      "latitude": 43.0,
+      "longitude": 89.2
+    },
+    "timeline": {
+      "invention_date": 700,
+      "extinction_date": 1700
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written TTB."
+  },
+  {
+    "id": "Palm",
+    "numeric_code": "126",
+    "name": "Palmyrene",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 32,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 34.6,
+      "longitude": 38.3
+    },
+    "timeline": {
+      "invention_date": -100,
+      "extinction_date": 300
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Pauc",
+    "numeric_code": "263",
+    "name": "Pau Cin Hau",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 57,
+    "parent_script": null,
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 23.4,
+      "longitude": 93.7
+    },
+    "timeline": {
+      "invention_date": 1902,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Pcun",
+    "numeric_code": "015",
+    "name": "Proto-Cuneiform",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Middle East",
+      "latitude": 31.3,
+      "longitude": 45.6
+    },
+    "timeline": {
+      "invention_date": -3350,
+      "extinction_date": -2900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written LTR."
+  },
+  {
+    "id": "Pelm",
+    "numeric_code": "016",
+    "name": "Proto-Elamite",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": "Pcun",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 32.2,
+      "longitude": 48.3
+    },
+    "timeline": {
+      "invention_date": -3100,
+      "extinction_date": -2900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written LTR."
+  },
+  {
+    "id": "Perm",
+    "numeric_code": "227",
+    "name": "Old Permic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 43,
+    "parent_script": "Cyrl",
+    "geography": {
+      "region": "Europe",
+      "latitude": 61.7,
+      "longitude": 50.8
+    },
+    "timeline": {
+      "invention_date": 1372,
+      "extinction_date": 1600
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Phag",
+    "numeric_code": "331",
+    "name": "Phags-pa",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 56,
+    "parent_script": "Tibt",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 40.0,
+      "longitude": 116.0
+    },
+    "timeline": {
+      "invention_date": 1269,
+      "extinction_date": 1368
+    },
+    "languages": [
+      "Chinese",
+      "Middle Mongolian",
+      "Sanskrit",
+      "Tibetan"
+    ],
+    "native_example": "ꡏꡡ",
+    "typography_quirks": "Square script created by Lama Pagpa for Kublai Khan to write Mongol, Chinese, Tibetan. Written vertically top-to-bottom."
+  },
+  {
+    "id": "Phli",
+    "numeric_code": "131",
+    "name": "Inscriptional Pahlavi",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 27,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 29.9,
+      "longitude": 52.9
+    },
+    "timeline": {
+      "invention_date": -100,
+      "extinction_date": 500
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Phlp",
+    "numeric_code": "132",
+    "name": "Psalter Pahlavi",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 29,
+    "parent_script": "Phli",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 29.9,
+      "longitude": 52.9
+    },
+    "timeline": {
+      "invention_date": 400,
+      "extinction_date": 700
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Phlv",
+    "numeric_code": "133",
+    "name": "Book Pahlavi",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 0,
+    "parent_script": "Phli",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 32.0,
+      "longitude": 53.0
+    },
+    "timeline": {
+      "invention_date": 500,
+      "extinction_date": 900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Phnx",
+    "numeric_code": "115",
+    "name": "Phoenician",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 29,
+    "parent_script": "Psin",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 33.88,
+      "longitude": 35.49
+    },
+    "timeline": {
+      "invention_date": -1050,
+      "extinction_date": -150
+    },
+    "languages": [
+      "Canaanite",
+      "Phoenician",
+      "Punic"
+    ],
+    "native_example": "𐤊 Canaan",
+    "typography_quirks": "Consonantal alphabet without vowel notation. First widely used phonetic alphabet in the Mediterranean."
+  },
+  {
+    "id": "Plrd",
+    "numeric_code": "282",
+    "name": "Miao (Pollard)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 149,
+    "parent_script": "Cans",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 27.3,
+      "longitude": 103.7
+    },
+    "timeline": {
+      "invention_date": 1904,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Piqd",
+    "numeric_code": "293",
+    "name": "Klingon (KLI pIqaD)",
+    "type": "Alphabet",
+    "status": "Constructed",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Constructed",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "timeline": {
+      "invention_date": 1980,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Prti",
+    "numeric_code": "130",
+    "name": "Inscriptional Parthian",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 30,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 35.0,
+      "longitude": 52.0
+    },
+    "timeline": {
+      "invention_date": -250,
+      "extinction_date": 300
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Psin",
+    "numeric_code": "103",
+    "name": "Proto-Sinaitic",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": "Egyp",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 28.5,
+      "longitude": 34.0
+    },
+    "timeline": {
+      "invention_date": -1850,
+      "extinction_date": -1050
+    },
+    "languages": [
+      "Proto-Canaanite",
+      "Sinaitic dialects"
+    ],
+    "native_example": "𐤔",
+    "typography_quirks": "Proto-Sinaitic: the first alphabetic script, derived from Egyptian hieroglyphs, representing consonants phonetically. Ancestor of nearly every alphabet in use today."
+  },
+  {
+    "id": "Ranj",
+    "numeric_code": "303",
+    "name": "Ranjana",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": "Newa",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.7,
+      "longitude": 85.3
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Rjng",
+    "numeric_code": "363",
+    "name": "Rejang (Redjang, Kaganga)",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 37,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -3.5,
+      "longitude": 102.5
+    },
+    "timeline": {
+      "invention_date": 1700,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Rohg",
+    "numeric_code": "167",
+    "name": "Hanifi Rohingya",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 50,
+    "parent_script": null,
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 20.9,
+      "longitude": 92.3
+    },
+    "timeline": {
+      "invention_date": 1980,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Roro",
+    "numeric_code": "620",
+    "name": "Rongorongo",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "Boustrophedon",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Oceania",
+      "latitude": -27.1,
+      "longitude": -109.3
+    },
+    "timeline": {
+      "invention_date": 1700,
+      "extinction_date": 1870
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written Boustrophedon."
+  },
+  {
+    "id": "Runr",
+    "numeric_code": "211",
+    "name": "Runic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 86,
+    "parent_script": "Ital",
+    "geography": {
+      "region": "Europe",
+      "latitude": 59.32,
+      "longitude": 18.06
+    },
+    "timeline": {
+      "invention_date": 150,
+      "extinction_date": 1100
+    },
+    "languages": [
+      "Old Danish",
+      "Old English",
+      "Old Frisian",
+      "Old Norse",
+      "Old Swedish",
+      "Proto-Norse"
+    ],
+    "native_example": "ᚠᚢᚦᚨᚱᚲ",
+    "typography_quirks": "Straight-line designs optimized for carving into wood, stone, or bone. Vertical stems with diagonal branches. Left-to-right or right-to-left."
+  },
+  {
+    "id": "Samr",
+    "numeric_code": "123",
+    "name": "Samaritan",
+    "type": "Abjad",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 61,
+    "parent_script": "Phnx",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 32.22,
+      "longitude": 35.26
+    },
+    "timeline": {
+      "invention_date": -500,
+      "extinction_date": null
+    },
+    "languages": [
+      "Samaritan Aramaic",
+      "Samaritan Hebrew"
+    ],
+    "native_example": "ࠔࠌࠓ",
+    "typography_quirks": "Direct descendant of the Paleo-Hebrew script, retaining the old letter shapes while main-stream Hebrew adopted Aramaic square styles."
+  },
+  {
+    "id": "Sara",
+    "numeric_code": "292",
+    "name": "Sarati",
+    "type": "Alphabet",
+    "status": "Constructed",
+    "directionality": "TTB",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Constructed",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "timeline": {
+      "invention_date": 1919,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written TTB."
+  },
+  {
+    "id": "Sarb",
+    "numeric_code": "105",
+    "name": "Old South Arabian",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "Boustrophedon",
+    "character_count": 32,
+    "parent_script": "Psin",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 15.35,
+      "longitude": 44.2
+    },
+    "timeline": {
+      "invention_date": -900,
+      "extinction_date": 600
+    },
+    "languages": [
+      "Hadramautic",
+      "Himyaritic",
+      "Minaean",
+      "Qatabanian",
+      "Sabaean"
+    ],
+    "native_example": "𐩪𐩨𐩱",
+    "typography_quirks": "Features highly symmetrical, geometric column-like letters. Often written in Boustrophedon (alternating LTR and RTL directions)."
+  },
+  {
+    "id": "Saur",
+    "numeric_code": "344",
+    "name": "Saurashtra",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 82,
+    "parent_script": "Gran",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 9.9,
+      "longitude": 78.1
+    },
+    "timeline": {
+      "invention_date": 1880,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Seal",
+    "numeric_code": "590",
+    "name": "(Small) Seal",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "East Asia",
+      "latitude": 34.3,
+      "longitude": 108.9
+    },
+    "timeline": {
+      "invention_date": -770,
+      "extinction_date": -200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written TTB."
+  },
+  {
+    "id": "Sgnw",
+    "numeric_code": "095",
+    "name": "SignWriting",
+    "type": "Featural",
+    "status": "Living",
+    "directionality": "TTB",
+    "character_count": 672,
+    "parent_script": null,
+    "geography": {
+      "region": "North America",
+      "latitude": 38.0,
+      "longitude": -97.0
+    },
+    "timeline": {
+      "invention_date": 1974,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Featural written TTB."
+  },
+  {
+    "id": "Shaw",
+    "numeric_code": "281",
+    "name": "Shavian (Shaw)",
+    "type": "Alphabet",
+    "status": "Constructed",
+    "directionality": "LTR",
+    "character_count": 48,
+    "parent_script": null,
+    "geography": {
+      "region": "Europe",
+      "latitude": 51.5,
+      "longitude": -0.1
+    },
+    "timeline": {
+      "invention_date": 1960,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Shrd",
+    "numeric_code": "319",
+    "name": "Sharada, Śāradā",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 104,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 34.1,
+      "longitude": 74.8
+    },
+    "timeline": {
+      "invention_date": 800,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Shui",
+    "numeric_code": "530",
+    "name": "Shuishu",
+    "type": "Logographic",
+    "status": "Living",
+    "directionality": "TTB",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "East Asia",
+      "latitude": 26.0,
+      "longitude": 107.5
+    },
+    "timeline": {
+      "invention_date": 1200,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Logographic written TTB."
+  },
+  {
+    "id": "Sidd",
+    "numeric_code": "302",
+    "name": "Siddham, Siddhaṃ, Siddhamātṛkā",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 92,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 25.3,
+      "longitude": 83.0
+    },
+    "timeline": {
+      "invention_date": 600,
+      "extinction_date": 1200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Sidt",
+    "numeric_code": "180",
+    "name": "Sidetic",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 26,
+    "parent_script": "Grek",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 36.8,
+      "longitude": 31.4
+    },
+    "timeline": {
+      "invention_date": -500,
+      "extinction_date": -200
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Sind",
+    "numeric_code": "318",
+    "name": "Khudawadi, Sindhi",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 69,
+    "parent_script": "Shrd",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 25.4,
+      "longitude": 68.4
+    },
+    "timeline": {
+      "invention_date": 1550,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Sinh",
+    "numeric_code": "348",
+    "name": "Sinhala",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 111,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 6.92,
+      "longitude": 79.86
+    },
+    "timeline": {
+      "invention_date": 200,
+      "extinction_date": null
+    },
+    "languages": [
+      "Pali",
+      "Sanskrit",
+      "Sinhala"
+    ],
+    "native_example": "සිංහල",
+    "typography_quirks": "Highly circular and ornate script. Involves complex ligature shaping. Used in Sri Lanka."
+  },
+  {
+    "id": "Sogd",
+    "numeric_code": "141",
+    "name": "Sogdian",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 42,
+    "parent_script": "Sogo",
+    "geography": {
+      "region": "Central Asia",
+      "latitude": 39.6,
+      "longitude": 66.9
+    },
+    "timeline": {
+      "invention_date": 100,
+      "extinction_date": 1000
+    },
+    "languages": [
+      "Soggian"
+    ],
+    "native_example": "𐼰𐼱",
+    "typography_quirks": "Evolved from Aramaic. Parent of Old Uyghur, which parented Mongolian. Cursive connections."
+  },
+  {
+    "id": "Sogo",
+    "numeric_code": "142",
+    "name": "Old Sogdian",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 40,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Central Asia",
+      "latitude": 39.6,
+      "longitude": 66.9
+    },
+    "timeline": {
+      "invention_date": 100,
+      "extinction_date": 500
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abjad written RTL."
+  },
+  {
+    "id": "Sora",
+    "numeric_code": "398",
+    "name": "Sora Sompeng",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 35,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 19.2,
+      "longitude": 84.0
+    },
+    "timeline": {
+      "invention_date": 1936,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Soyo",
+    "numeric_code": "329",
+    "name": "Soyombo",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 83,
+    "parent_script": "Ranj",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 47.9,
+      "longitude": 106.9
+    },
+    "timeline": {
+      "invention_date": 1686,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Sund",
+    "numeric_code": "362",
+    "name": "Sundanese",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 72,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": -6.9,
+      "longitude": 107.6
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Sunu",
+    "numeric_code": "274",
+    "name": "Sunuwar",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 44,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.3,
+      "longitude": 86.3
+    },
+    "timeline": {
+      "invention_date": 1942,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Sylo",
+    "numeric_code": "316",
+    "name": "Syloti Nagri",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 45,
+    "parent_script": "Kthi",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 24.9,
+      "longitude": 91.9
+    },
+    "timeline": {
+      "invention_date": 1500,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Syrc",
+    "numeric_code": "135",
+    "name": "Syriac",
+    "type": "Abjad",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 88,
+    "parent_script": "Armi",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 36.19,
+      "longitude": 44.01
+    },
+    "timeline": {
+      "invention_date": 100,
+      "extinction_date": null
+    },
+    "languages": [
+      "Assyrian Neo-Aramaic",
+      "Chaldean Neo-Aramaic",
+      "Classical Syriac",
+      "Syriac",
+      "Turoyo"
+    ],
+    "native_example": "ܫܠܡܐ",
+    "typography_quirks": "Cursive Eastern Aramaic script. Features three main scripts variants (Estrangela, Madnhaya, Serta). Contextual joining."
+  },
+  {
+    "id": "Tagb",
+    "numeric_code": "373",
+    "name": "Tagbanwa",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 18,
+    "parent_script": "Tglg",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 9.8,
+      "longitude": 118.7
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Takr",
+    "numeric_code": "321",
+    "name": "Takri, Ṭākrī, Ṭāṅkrī",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 68,
+    "parent_script": "Shrd",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 31.1,
+      "longitude": 77.2
+    },
+    "timeline": {
+      "invention_date": 1550,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Tale",
+    "numeric_code": "353",
+    "name": "Tai Le",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 35,
+    "parent_script": "Mymr",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 24.4,
+      "longitude": 98.6
+    },
+    "timeline": {
+      "invention_date": 1400,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Talu",
+    "numeric_code": "354",
+    "name": "New Tai Lue",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 83,
+    "parent_script": "Lana",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 22.0,
+      "longitude": 100.8
+    },
+    "timeline": {
+      "invention_date": 1950,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Taml",
+    "numeric_code": "346",
+    "name": "Tamil",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 123,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 13.08,
+      "longitude": 80.27
+    },
+    "timeline": {
+      "invention_date": 300,
+      "extinction_date": null
+    },
+    "languages": [
+      "Saurashtra (historically)",
+      "Tamil"
+    ],
+    "native_example": "தமிழ்",
+    "typography_quirks": "Highly simplified consonant system (no voiced/aspirated pairs). Features distinctive rounded, angular glyph shapes."
+  },
+  {
+    "id": "Tang",
+    "numeric_code": "520",
+    "name": "Tangut",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 7059,
+    "parent_script": "Hani",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 38.5,
+      "longitude": 106.2
+    },
+    "timeline": {
+      "invention_date": 1036,
+      "extinction_date": 1500
+    },
+    "languages": [
+      "Tangut"
+    ],
+    "native_example": "𗼇𗾧",
+    "typography_quirks": "Extremely complex logographic script inspired by Chinese but with vastly more strokes per character. Hardest script to write."
+  },
+  {
+    "id": "Tavt",
+    "numeric_code": "359",
+    "name": "Tai Viet",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 72,
+    "parent_script": "Thai",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 21.3,
+      "longitude": 103.9
+    },
+    "timeline": {
+      "invention_date": 1500,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Tayo",
+    "numeric_code": "380",
+    "name": "Tai Yo",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 55,
+    "parent_script": null,
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 19.3,
+      "longitude": 104.5
+    },
+    "timeline": {
+      "invention_date": 1500,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Telu",
+    "numeric_code": "340",
+    "name": "Telugu",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 101,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 17.38,
+      "longitude": 78.48
+    },
+    "timeline": {
+      "invention_date": 1000,
+      "extinction_date": null
+    },
+    "languages": [
+      "Gondi",
+      "Telugu"
+    ],
+    "native_example": "తెలుగు",
+    "typography_quirks": "Highly circular characters, originally adapted for writing on palm leaves without tearing them. Vowel marks hang above/around consonants."
+  },
+  {
+    "id": "Teng",
+    "numeric_code": "290",
+    "name": "Tengwar",
+    "type": "Featural",
+    "status": "Constructed",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Constructed",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "timeline": {
+      "invention_date": 1937,
+      "extinction_date": null
+    },
+    "languages": [
+      "English (transcription)",
+      "Quenya",
+      "Sindarin"
+    ],
+    "native_example": "",
+    "typography_quirks": "Featural script invented by J.R.R. Tolkien for the Elvish languages. Consonants indicate voicing and articulation place through stem/bow shapes."
+  },
+  {
+    "id": "Tfng",
+    "numeric_code": "120",
+    "name": "Tifinagh (Berber)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 59,
+    "parent_script": "Phnx",
+    "geography": {
+      "region": "Africa",
+      "latitude": 31.8,
+      "longitude": -7.1
+    },
+    "timeline": {
+      "invention_date": -300,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Tglg",
+    "numeric_code": "370",
+    "name": "Tagalog (Baybayin, Alibata)",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 23,
+    "parent_script": "Kawi",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 14.6,
+      "longitude": 121.0
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": 1750
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Thaa",
+    "numeric_code": "170",
+    "name": "Thaana",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "RTL",
+    "character_count": 50,
+    "parent_script": "Arab",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 4.2,
+      "longitude": 73.5
+    },
+    "timeline": {
+      "invention_date": 1700,
+      "extinction_date": null
+    },
+    "languages": [
+      "Dhivehi (Thaana)"
+    ],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written RTL."
+  },
+  {
+    "id": "Thai",
+    "numeric_code": "352",
+    "name": "Thai",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 86,
+    "parent_script": "Khmr",
+    "geography": {
+      "region": "Southeast Asia",
+      "latitude": 13.75,
+      "longitude": 100.5
+    },
+    "timeline": {
+      "invention_date": 1283,
+      "extinction_date": null
+    },
+    "languages": [
+      "Isan",
+      "Northern Thai",
+      "Southern Thai",
+      "Thai"
+    ],
+    "native_example": "ภาษาไทย",
+    "typography_quirks": "No word spacing. Tone marks and vowel marks are placed above, below, or beside the base consonant. Complex orthographic tone rules."
+  },
+  {
+    "id": "Tibt",
+    "numeric_code": "330",
+    "name": "Tibetan",
+    "type": "Abugida",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 207,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 29.65,
+      "longitude": 91.11
+    },
+    "timeline": {
+      "invention_date": 650,
+      "extinction_date": null
+    },
+    "languages": [
+      "Balti (historically)",
+      "Dzongkha",
+      "Ladakhi",
+      "Sikkimese",
+      "Tibetan"
+    ],
+    "native_example": "བོད་སྐད།",
+    "typography_quirks": "Strong horizontal baseline. Features stackable consonants (subjoined letters) representing clusters."
+  },
+  {
+    "id": "Tirh",
+    "numeric_code": "326",
+    "name": "Tirhuta",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 82,
+    "parent_script": "Brah",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 26.1,
+      "longitude": 85.9
+    },
+    "timeline": {
+      "invention_date": 1300,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Tnsa",
+    "numeric_code": "275",
+    "name": "Tangsa",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 89,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 27.3,
+      "longitude": 95.9
+    },
+    "timeline": {
+      "invention_date": 1990,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Todr",
+    "numeric_code": "229",
+    "name": "Todhri",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 52,
+    "parent_script": null,
+    "geography": {
+      "region": "Europe",
+      "latitude": 41.1,
+      "longitude": 20.1
+    },
+    "timeline": {
+      "invention_date": 1770,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Tols",
+    "numeric_code": "299",
+    "name": "Tolong Siki",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 54,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 23.4,
+      "longitude": 85.3
+    },
+    "timeline": {
+      "invention_date": 1999,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Toto",
+    "numeric_code": "294",
+    "name": "Toto",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 31,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 26.8,
+      "longitude": 89.3
+    },
+    "timeline": {
+      "invention_date": 2015,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Tutg",
+    "numeric_code": "341",
+    "name": "Tulu-Tigalari",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 80,
+    "parent_script": "Gran",
+    "geography": {
+      "region": "South Asia",
+      "latitude": 13.0,
+      "longitude": 74.8
+    },
+    "timeline": {
+      "invention_date": 1100,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written LTR."
+  },
+  {
+    "id": "Ugar",
+    "numeric_code": "040",
+    "name": "Ugaritic",
+    "type": "Abjad",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 31,
+    "parent_script": "Xsux",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 35.6,
+      "longitude": 35.78
+    },
+    "timeline": {
+      "invention_date": -1400,
+      "extinction_date": -1180
+    },
+    "languages": [
+      "Ugaritic"
+    ],
+    "native_example": "𐎀𐎁",
+    "typography_quirks": "An alphabet shaped as cuneiform wedge-marks, used for the Ugaritic language."
+  },
+  {
+    "id": "Vaii",
+    "numeric_code": "470",
+    "name": "Vai",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 300,
+    "parent_script": null,
+    "geography": {
+      "region": "Africa",
+      "latitude": 6.8,
+      "longitude": -11.1
+    },
+    "timeline": {
+      "invention_date": 1830,
+      "extinction_date": null
+    },
+    "languages": [
+      "Vai"
+    ],
+    "native_example": "ꕙꔤ",
+    "typography_quirks": "Independent syllabic system invented in Liberia. Consists of over 200 syllabic glyphs. Standardized in 1962."
+  },
+  {
+    "id": "Visp",
+    "numeric_code": "280",
+    "name": "Visible Speech",
+    "type": "Featural",
+    "status": "Constructed",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Europe",
+      "latitude": 55.9,
+      "longitude": -3.2
+    },
+    "timeline": {
+      "invention_date": 1867,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Featural written LTR."
+  },
+  {
+    "id": "Vith",
+    "numeric_code": "228",
+    "name": "Vithkuqi",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 70,
+    "parent_script": null,
+    "geography": {
+      "region": "Europe",
+      "latitude": 40.6,
+      "longitude": 20.6
+    },
+    "timeline": {
+      "invention_date": 1845,
+      "extinction_date": 1880
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Wara",
+    "numeric_code": "262",
+    "name": "Warang Citi (Varang Kshiti)",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 84,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 22.5,
+      "longitude": 85.8
+    },
+    "timeline": {
+      "invention_date": 1946,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Wcho",
+    "numeric_code": "283",
+    "name": "Wancho",
+    "type": "Alphabet",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 59,
+    "parent_script": null,
+    "geography": {
+      "region": "South Asia",
+      "latitude": 26.6,
+      "longitude": 95.2
+    },
+    "timeline": {
+      "invention_date": 2001,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written LTR."
+  },
+  {
+    "id": "Wole",
+    "numeric_code": "480",
+    "name": "Woleai",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 0,
+    "parent_script": null,
+    "geography": {
+      "region": "Oceania",
+      "latitude": 7.4,
+      "longitude": 143.9
+    },
+    "timeline": {
+      "invention_date": 1905,
+      "extinction_date": 1950
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Xpeo",
+    "numeric_code": "030",
+    "name": "Old Persian",
+    "type": "Syllabary",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 50,
+    "parent_script": "Xsux",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 29.9,
+      "longitude": 52.9
+    },
+    "timeline": {
+      "invention_date": -525,
+      "extinction_date": -330
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Xsux",
+    "numeric_code": "020",
+    "name": "Cuneiform, Sumero-Akkadian",
+    "type": "Logographic",
+    "status": "Historical",
+    "directionality": "LTR",
+    "character_count": 1234,
+    "parent_script": "Pcun",
+    "geography": {
+      "region": "Middle East",
+      "latitude": 32.53,
+      "longitude": 44.42
+    },
+    "timeline": {
+      "invention_date": -3200,
+      "extinction_date": 100
+    },
+    "languages": [
+      "Akkadian",
+      "Elamite",
+      "Hittite",
+      "Hurrian",
+      "Luqian",
+      "Sumerian",
+      "Urartean"
+    ],
+    "native_example": "𐎏𐎎𐎎𐏎",
+    "typography_quirks": "Earliest known writing system. Wedge-shaped marks pressed into clay tablets using a stylus. Transitioned from logographs to a complex syllabary."
+  },
+  {
+    "id": "Yezi",
+    "numeric_code": "192",
+    "name": "Yezidi",
+    "type": "Alphabet",
+    "status": "Historical",
+    "directionality": "RTL",
+    "character_count": 47,
+    "parent_script": null,
+    "geography": {
+      "region": "Middle East",
+      "latitude": 36.7,
+      "longitude": 43.3
+    },
+    "timeline": {
+      "invention_date": 1200,
+      "extinction_date": 1900
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Alphabet written RTL."
+  },
+  {
+    "id": "Yiii",
+    "numeric_code": "460",
+    "name": "Yi",
+    "type": "Syllabary",
+    "status": "Living",
+    "directionality": "LTR",
+    "character_count": 1220,
+    "parent_script": null,
+    "geography": {
+      "region": "East Asia",
+      "latitude": 27.9,
+      "longitude": 102.3
+    },
+    "timeline": {
+      "invention_date": 1500,
+      "extinction_date": null
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Syllabary written LTR."
+  },
+  {
+    "id": "Zanb",
+    "numeric_code": "339",
+    "name": "Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal Square Script)",
+    "type": "Abugida",
+    "status": "Historical",
+    "directionality": "TTB",
+    "character_count": 72,
+    "parent_script": "Tibt",
+    "geography": {
+      "region": "East Asia",
+      "latitude": 47.9,
+      "longitude": 106.9
+    },
+    "timeline": {
+      "invention_date": 1686,
+      "extinction_date": 1800
+    },
+    "languages": [],
+    "native_example": "",
+    "typography_quirks": "A writing system of type Abugida written TTB."
+  }
+]
