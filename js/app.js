@@ -554,10 +554,7 @@ function renderGlyphField(f) {
     .attr("fill", d => (d.s.status === "Living" ? "#12100c" : TYPE_COLORS[d.s.type]))
     .text(d => firstGlyph(d.s.native_example));
 
-  node.filter(d => d.r >= 24).append("text")
-    .attr("text-anchor", "middle").attr("y", d => d.r + 13)
-    .attr("font-size", 10).attr("fill", "#a89e8c")
-    .text(d => shortName(d.s));
+
 
   currentSim = d3.forceSimulation(nodes)
     .force("x", d3.forceX(d => center.get(d.s.type).x).strength(0.09))
